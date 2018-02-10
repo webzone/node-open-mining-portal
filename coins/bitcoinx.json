@@ -1,0 +1,5 @@
+{
+    "name": "BitcoinX",
+    "symbol": "BCX",
+    "algorithm": "blake2b"
+}
