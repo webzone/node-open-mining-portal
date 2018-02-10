@@ -2,11 +2,11 @@
     "enabled": true,
     "coin": "zcoin.json",
 
-    "address": "3BgAzQg6xCSCkikPAMPp9v2Z5suTK5Ne1f",
+    "address": "aNBtX9ToL88njoZxhf1sGUv54YBAUYGLAM",
 
     "rewardRecipients": {
-        "14s9ixtBBtP4Vrhv7VELeoyG82jqpetzYj": 1.5,
-        "14s9ixtBBtP4Vrhv7VELeoyG82jqpetzYj": 0.1
+        "aNBtX9ToL88njoZxhf1sGUv54YBAUYGLAM": 1.5,
+        "aNBtX9ToL88njoZxhf1sGUv54YBAUYGLAM": 0.1
     },
 
     "paymentProcessing": {
@@ -15,17 +15,17 @@
         "minimumPayment": 0.01,
         "daemon": {
             "host": "127.0.0.1",
-            "port": 8332,
+            "port": 7332,
             "user": "webzone",
             "password": "1a2s3d4f"
         }
     },
 
     "ports": {
-        "3008": {
+        "3708": {
             "diff": 8
         },
-        "3032": {
+        "3732": {
             "diff": 32,
             "varDiff": {
                 "minDiff": 8,
@@ -35,7 +35,7 @@
                 "variancePercent": 30
             }
         },
-        "3256": {
+        "3756": {
             "diff": 256
         }
     },
@@ -43,7 +43,7 @@
     "daemons": [
         {
             "host": "127.0.0.1",
-            "port": 8332,
+            "port": 7332,
             "user": "webzone",
             "password": "1a2s3d4f"
         }
